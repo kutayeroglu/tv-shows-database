@@ -1,5 +1,7 @@
 #Column Descriptions
+
 ###`Finished` table :
+
 ######*This table contains shows which have been fully watched by me. 
 
 		full_name : Full name of the show
