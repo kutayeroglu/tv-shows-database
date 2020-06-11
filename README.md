@@ -21,3 +21,9 @@
 			1. Actively watching but, waiting for new episodes -> "New_season_number-" (e.g 2-)
 			2. Actively watching and have more episodes -> Current_season o current_ep (e.g 2o2 or 4o12) 
 			3. Not currently watching -> Same as 2.
+			
+### `Stats` table : 
+		total_hour : Total hours of watch time 
+		total_days : Total days of watch time 
+		total_hours_anime : Total hours of anime watch time 
+		total_hours_others : Total hours for other types of shows
